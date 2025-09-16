@@ -39,16 +39,14 @@
 
 ## 📊 GitHub Stats  
 
-
 <p align="center">
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="350" style="margin-right: 20px;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
+       alt="GitHub Stats" width="380" style="margin-right: 20px;" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" alt="Top Languages" width="250" style="margin-right: 20px;" />
-
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrizad&theme=tokyonight" alt="GitHub Streak" width="350" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" 
+       alt="Top Languages" width="300" />
 </p>
 
     
