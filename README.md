@@ -1,72 +1,73 @@
-<h3 align="left">Languages and Tools:</h3>
+<!-- Profile Header -->
+<h1 align="center">Hi 👋, I'm Mohammed Rizad Ibrahim M</h1>
+<h3 align="center">🚀 Final-Year M.Tech CSE Student | Full Stack Developer | Problem Solver</h3>
 
-<p align="center">
-  <!-- Frontend -->
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-  </a> 
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="50" height="50"/> 
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="50" height="50"/> 
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
-  </a> 
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> 
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="50" height="50"/> 
-  </a> 
-</p>
+---
 
+<!-- Badges -->
 <p align="center">
-  <!-- Backend -->
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/> 
+  <a href="https://www.linkedin.com/in/sivasangaran-kk-696950255/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="50" height="50"/> 
-  </a> 
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="50" height="50"/> 
+  <a href="https://leetcode.com/u/4yy16HJvpl/">
+    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="50" height="50"/> 
+  <a href="https://leetcode.com/u/4yy16HJvpl/">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
   </a>
 </p>
 
+---
+
+<!-- About Me -->
+### 👨‍💻 About Me
+- 🎓 Final-year **CSE student at SKCET**  
+- 💻 Passionate about **Web Development, MERN Stack & Problem Solving**  
+- 🚀 Currently working on **Identity Based Federated Medical Records System**  
+- 📈 Actively improving skills through **LeetCode contests & projects**  
+
+---
+
+<!-- Stats & LeetCode -->
+### 📊 My Coding Journey
+## 📊 LeetCode Stats  
+
 <p align="center">
-  <!-- Databases -->
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> 
-  </a> 
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="50" height="50"/> 
-  </a>
+  <img src="https://leetcard.jacoblin.cool/4yy16HJvpl?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" />
 </p>
 
 <p align="center">
-  <!-- Languages -->
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> 
-  </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> 
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <!-- Tools -->
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/> 
-  </a>
+---
+
+<!-- Tech Stack -->
+### ⚡ Tech Stack  
+
+#### Languages  
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" height="40" />
 </p>
+
+#### Frameworks & Libraries  
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" height="40" />
+</p>
+
+#### Databases & Tools  
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" height="40" />
+</p>
+
+---
+
+<!-- Unique Touch -->
+### 🌱 Fun Facts  
+- 🧩 I enjoy solving algorithmic challenges.  
+- 🎯 Goal: Becoming a **Full-stack Developer** contributing to impactful projects.  
+- ☕ Fuelled by **coffee + curiosity**.  
+
+---
+
+<!-- Footer -->
