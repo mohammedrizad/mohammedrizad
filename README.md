@@ -39,14 +39,14 @@
 
 ## 📊 GitHub Stats  
 
-<div style="display: inline-flex; justify-content: center; gap: 20px;">
+<div style="display: flex; justify-content: center; align-items: center;">
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
-       alt="GitHub Stats" width="380" />
+       alt="GitHub Stats" width="360" style="margin: 0;" />
 
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" 
-       alt="Top Languages" width="380" />
+       alt="Top Languages" width="360" style="margin: 0 0 0 5px;" />
 </div>
 
 ---
