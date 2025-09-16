@@ -39,13 +39,15 @@
 
 ## 📊 GitHub Stats  
 
-<p align="center">
+<div style="display: flex; justify-content: center; gap: 20px; flex-wrap: wrap;">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
-       alt="GitHub Stats" width="350" style="display:inline-block; margin-right: 20px;" />
-  
+       alt="GitHub Stats" width="380" />
+
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" 
-       alt="Top Languages" width="350" style="display:inline-block; margin-left: 20px;" />
-</p>
+       alt="Top Languages" width="380" />
+</div>
     
 
 ---
