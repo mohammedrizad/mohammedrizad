@@ -58,9 +58,12 @@
 #### Databases & Tools  
 ## 🛠️ Tools & Databases  
 
-<p align="center">
+## 🛠️ Tools & Databases  
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&perline=5" height="50" alt="Tools & Databases"/>
 </p>
+
 
 
 ---
