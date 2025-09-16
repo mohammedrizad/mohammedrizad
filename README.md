@@ -39,16 +39,14 @@
  
 
 ## 📊 GitHub Stats  
-
- 
 <p align="center">
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
-       alt="GitHub Stats" width="400" />
+       alt="GitHub Stats" width="420" height="200" />
   &nbsp;&nbsp; <!-- small space -->
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=donut&theme=tokyonight" 
-       alt="Top Languages" width="400" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" 
+       alt="Top Languages" width="420" height="200" />
 </p>
 
 
