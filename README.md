@@ -37,17 +37,21 @@
   <img src="https://leetcard.jacoblin.cool/4yy16HJvpl?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" width="450"/>
 </p>
  
-
+ 
 ## 📊 GitHub Stats  
-<p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
-       alt="GitHub Stats" width="420" height="200" />
+<div align="center">
+  <div style="display: inline-block;">
+    <!-- Main Stats -->
+    <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
+         alt="GitHub Stats" style="width: 400px; height: 195px;" />
+  </div>
   &nbsp;&nbsp; <!-- small space -->
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" 
-       alt="Top Languages" width="420" height="200" />
-</p>
+  <div style="display: inline-block;">
+    <!-- Top Languages -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" 
+         alt="Top Languages" style="width: 400px; height: 195px;" />
+  </div>
+</div>
 
 
 ---
