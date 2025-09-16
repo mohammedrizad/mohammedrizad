@@ -40,18 +40,24 @@
 ## 📊 GitHub Stats  
 
 
-<p align="center">
-  <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
-  
-  <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrizad&theme=tokyonight" alt="GitHub Streak" height="180"/>
-</p>
+<table align="center">
+  <tr>
+    <!-- Main Stats -->
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="180"/>
+    </td>
 
-<p align="center">
-  <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
-</p>
+    <!-- Top Languages -->
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" alt="Top Languages" height="180"/>
+    </td>
+
+    <!-- Streak Stats -->
+    <td align="center" style="padding: 10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrizad&theme=tokyonight" alt="GitHub Streak" height="180"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
