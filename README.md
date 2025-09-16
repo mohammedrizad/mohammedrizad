@@ -29,7 +29,7 @@
 ---
 
 <!-- Stats & LeetCode -->
-### 📊 My Coding Journey
+### My Coding Journey
 
 ## 📊 LeetCode Stats  
 
@@ -43,11 +43,11 @@
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450"/>
 </p>
 
-<p align="left">
+<p align="right">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrizad&theme=tokyonight" alt="GitHub Streak" width="450"/>
 </p>
 
-<p align="left">
+<p align="centre">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" alt="Top Languages" width="450"/>
 </p>
 
