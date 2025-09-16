@@ -43,11 +43,11 @@
 <p align="center">
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
-       alt="GitHub Stats" width="420" />
-  &nbsp;&nbsp;&nbsp;
+       alt="GitHub Stats" width="380" />
+  &nbsp;&nbsp; <!-- small space -->
   <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=donut&theme=tokyonight" 
-       alt="Top Languages" width="420" />
+       alt="Top Languages" width="380" />
 </p>
 
 
