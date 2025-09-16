@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
   <a href="https://leetcode.com/u/4yy16HJvpl/">
-    <img src="https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode" alt="LeetCode" />
+    <img src="https://img.shields.io/badge/LeetCode-white?style=for-the-badge&logo=leetcode" alt="LeetCode" />
   </a>
   <a href="https://leetcode.com/u/4yy16HJvpl/">
     <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github" alt="GitHub" />
@@ -30,14 +30,25 @@
 
 <!-- Stats & LeetCode -->
 ### 📊 My Coding Journey
+
 ## 📊 LeetCode Stats  
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/4yy16HJvpl?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" />
+<p align="left">
+  <img src="https://leetcard.jacoblin.cool/4yy16HJvpl?theme=dark&font=Baloo%202&ext=contest" alt="LeetCode Stats" width="450"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=radical" alt="GitHub Stats" />
+## 📊 GitHub Stats  
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" alt="GitHub Stats" width="450"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedrizad&theme=tokyonight" alt="GitHub Streak" width="450"/>
+</p>
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" alt="Top Languages" width="450"/>
 </p>
 
 ---
