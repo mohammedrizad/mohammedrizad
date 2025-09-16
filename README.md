@@ -39,11 +39,16 @@
 
 ## 📊 GitHub Stats  
 
+## 📊 GitHub Stats  
+
 <p align="center">
+  <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
-       alt="GitHub Stats" width="360" />
+       alt="GitHub Stats" width="350" />
+  &nbsp;&nbsp;&nbsp; <!-- adds space between the cards -->
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" 
-       alt="Top Languages" width="360" />
+       alt="Top Languages" width="350" />
 </p>
 
 
