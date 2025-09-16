@@ -44,11 +44,12 @@
   <!-- Main Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
        alt="GitHub Stats" width="420" />
-  &nbsp;&nbsp;&nbsp; <!-- adds space between the cards -->
+  &nbsp;&nbsp;&nbsp;
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=donut&theme=tokyonight" 
        alt="Top Languages" width="420" />
 </p>
+
 
 
 ---
