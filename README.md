@@ -39,20 +39,13 @@
 
 ## 📊 GitHub Stats  
 
-<table align="center">
-  <tr>
-    <!-- Main Stats -->
-    <td align="center" style="padding-right: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
-           alt="GitHub Stats" width="380"/> </td>
-    <!-- Top Languages -->
-    <td align="center" style="padding-left: 20px;">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" 
-           alt="Top Languages" width="300"/>
-    </td>
-  </tr>
-</table>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedrizad&show_icons=true&theme=tokyonight" 
+       alt="GitHub Stats" width="350" style="display:inline-block; margin-right: 20px;" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedrizad&layout=compact&theme=tokyonight" 
+       alt="Top Languages" width="350" style="display:inline-block; margin-left: 20px;" />
+</p>
     
 
 ---
