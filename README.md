@@ -56,9 +56,12 @@
 </p>
 
 #### Databases & Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode" height="40" />
+## 🛠️ Tools & Databases  
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,git,github,vscode&perline=5" height="50" alt="Tools & Databases"/>
 </p>
+
 
 ---
 
